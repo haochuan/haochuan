@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there 👋
+
+- 🙊 Friends prefer call me `H` here.
+- 💻 I write code for Javascript infra/tooling, audio processing, and music.
+- 📝 I write blogs [HERE](https://blog.haochuan.io/).
+- 🕹 I use neovim.
+- 🎸 I play guitar on [my Youtube channel](https://www.youtube.com/channel/UCNESazgvF_NtDAOJrJMNw0g), 
+- 🎤 I have a studio doing recording/mixing/music production.
+- 🤘🏼 I like metal, especially 80's thrash and modern progressive.
+- 🏋🏻 I spend ~2 hours on weight lifting/jumping rope/burpee/basketball everyday.
 
 <!--
 **haochuan/haochuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
